@@ -39,5 +39,18 @@ If you find this workshop (and code) useful, please remember to cite our work!
 
 Finally, the authors wish to thank Coveo for supporting our research, and [Luca Bigon](https://www.linkedin.com/in/bigluck/) for help in data collection and preparation.
 
+## How to Cite our Work
+
+If you find this code and dataset useful, please cite our work:
+
+```
+@inproceedings{CoveoSIGIR2021,
+author = {Tagliabue, Jacopo and Greco, Ciro and Roy, Jean-Francis and Bianchi, Federico and Cassani, Giovanni and Yu, Bingqing},
+title = {Coveo Data Challenge},
+year = {2021},
+booktitle = {SIGIR eCom 2021}
+}
+```
+
 ## License
 All code is provided "as is" under a standard MIT License.
