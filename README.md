@@ -2,7 +2,7 @@
 Code for the In-Session Personalization workshop for eCommerce, April 2021
 
 ## Overview
-This repo hosts the code for the [In-Session Personalization](https://www.eventbrite.ca/e/machine-learning-in-retail-sales-marketing-e-commerce-summit-tickets-138507063355) workshop at the _Machine Learning in Retail Summit_. The workshop is a hands-on meeting on in-session personalization, including slides (TBC) and this open source repository: our aim is to implement a sound and readable version of the models found in our research papers, showcasing tried and tested personalization strategies on real e-commerce data.
+This repo hosts the code for the [In-Session Personalization](https://www.eventbrite.ca/e/machine-learning-in-retail-sales-marketing-e-commerce-summit-tickets-138507063355) workshop at the _Machine Learning in Retail Summit_. The workshop is a hands-on meeting on in-session personalization, including slides and this open source repository: our aim is to implement a sound and readable version of the models found in our research papers, showcasing tried and tested personalization strategies on real e-commerce data.
 
 While the notebook is heavily commented, please refer to the slides and the references below for the full context behind the product features and some design choices. Check back for updates before the session starts!
 
@@ -45,7 +45,7 @@ If you find this code and dataset useful, please cite our work:
 
 ```
 @inproceedings{CoveoSIGIR2021,
-author = {Tagliabue, Jacopo and Greco, Ciro and Roy, Jean-Francis and Bianchi, Federico and Cassani, Giovanni and Yu, Bingqing},
+author = {Tagliabue, Jacopo and Greco, Ciro and Roy, Jean-Francis and Bianchi, Federico and Cassani, Giovanni and Yu, Bingqing and Chia, Patrick John},
 title = {Coveo Data Challenge},
 year = {2021},
 booktitle = {SIGIR eCom 2021}
