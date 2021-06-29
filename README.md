@@ -1,10 +1,10 @@
 # retail-personalization-workshop
-Code for the In-Session Personalization workshop for eCommerce, April 2021
+Code for the In-Session Personalization Workshop for eCommerce, April 2021, and the MICES Workshop in June 2021.
 
 ## Overview
-This repo hosts the code for the [In-Session Personalization](https://www.eventbrite.ca/e/machine-learning-in-retail-sales-marketing-e-commerce-summit-tickets-138507063355) workshop at the _Machine Learning in Retail Summit_. The workshop is a hands-on meeting on in-session personalization, including slides and this open source repository: our aim is to implement a sound and readable version of the models found in our research papers, showcasing tried and tested personalization strategies on real e-commerce data.
+This repo hosts the code for the [In-Session Personalization](https://www.eventbrite.ca/e/machine-learning-in-retail-sales-marketing-e-commerce-summit-tickets-138507063355) workshop at the _Machine Learning in Retail Summit_ and the hands-on workshop at [MICES](https://mices.co/). Both workshops are hands-on meetings on in-session personalization, including slides and this open source repository: our aim is to implement a sound and readable version of the models found in our research papers, showcasing tried and tested personalization strategies on real e-commerce data.
 
-While the notebook is heavily commented, please refer to the slides and the references below for the full context behind the product features and some design choices.
+While the code is heavily commented, please refer to the slides and the references below for the full context behind the product features and some design choices.
 
 ## How to run the code
 
